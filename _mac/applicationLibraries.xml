@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="JetBrains JFlex">
+      <CLASSES>
+        <root url="file:///Personal/hybrisplugin/tmp/idea-flex.skeleton" />
+        <root url="jar:///Personal/hybrisplugin/tmp/JFlex.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
