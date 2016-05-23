@@ -63,9 +63,6 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
-  <component name="DependencyUISettings">
-    <option name="SCOPE_TYPE" value="file" />
-  </component>
   <component name="PsiViewer.Settings">
     <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
     <option name="PLUGIN_ENABLED" value="true" />
