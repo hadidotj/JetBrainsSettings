@@ -1,6 +1,7 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/ExportHeaders.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/SampleData.java" value="JAVA" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/sample_solr_content.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.impex" value="Impex" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
