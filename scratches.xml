@@ -1,12 +1,9 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/ExportHeaders.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/sample_solr_content.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.impex" value="Impex" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" value="JAVA" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.jsp" value="JSP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.properties" value="Properties" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.impex" value="Impex" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" value="TEXT" />
@@ -33,9 +30,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_30.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" value="TEXT" />
   </component>
 </application>
