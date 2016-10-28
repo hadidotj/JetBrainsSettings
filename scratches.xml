@@ -1,13 +1,10 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/ExampleSolrContent.json" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/ExportGen.impex" value="Impex" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/ExportHeaders.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/SampleData.java" value="JAVA" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.impex" value="Impex" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" value="JAVA" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/QA2-SAPConfig.impex" value="Impex" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/SampleData/ExportGen.impex" value="Impex" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/SampleData/ExportHeaders.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/SampleData/SampleData.java" value="JAVA" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" value="TEXT" />
   </component>
 </application>
