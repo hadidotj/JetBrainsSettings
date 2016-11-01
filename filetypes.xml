@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="search" type="PLAIN_TEXT" />
       <mapping pattern=".lastupdate" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
