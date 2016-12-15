@@ -15,5 +15,10 @@
       <option name="ERROR_STRIPE_COLOR" value="e35f62" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
+    <pattern icon="question" useCustomColors="false" case-sensitive="false" pattern="\bnote\b.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
   </component>
 </application>
