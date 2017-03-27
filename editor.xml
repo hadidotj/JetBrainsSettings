@@ -2,12 +2,12 @@
   <component name="EditorSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="73bf" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
-    </pattern>
+    <pattern pattern="\btodo\b.*" />
     <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="bf0008" />
       <option name="FONT_TYPE" value="3" />
@@ -15,10 +15,6 @@
       <option name="ERROR_STRIPE_COLOR" value="e35f62" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
-    <pattern icon="question" useCustomColors="false" case-sensitive="false" pattern="\bnote\b.*">
-      <option name="FOREGROUND" value="73bf" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
-    </pattern>
+    <pattern icon="question" pattern="\bnote\b.*" />
   </component>
 </application>
