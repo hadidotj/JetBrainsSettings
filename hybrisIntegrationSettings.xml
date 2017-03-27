@@ -1,0 +1,9 @@
+<application>
+  <component name="HybrisApplicationSettings">
+    <option name="usedActions">
+      <set>
+        <option value="OPEN_POTENTIAL_PROJECT" />
+      </set>
+    </option>
+  </component>
+</application>
