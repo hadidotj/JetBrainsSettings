@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*items.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,7 +18,6 @@
       <mask>*.xml,*.properties</mask>
       <mask>pom.xml</mask>
       <mask>.content.xml</mask>
-      <mask>*items.xml</mask>
       <mask>*.items</mask>
       <mask>*-items.xml</mask>
       <mask>*.impex</mask>
@@ -28,6 +27,11 @@
       <mask>*.java, *.tag, *.jsp</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*i.xml</mask>
+      <mask>*imt.xml</mask>
+      <mask>*im.xml</mask>
+      <mask>*items-.xml</mask>
+      <mask>*items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
