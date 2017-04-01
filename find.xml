@@ -7,30 +7,38 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
+    <option name="FILE_MASK" value="*-items.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.xml,*.properties</mask>
-      <mask>pom.xml</mask>
-      <mask>.content.xml</mask>
       <mask>*.items</mask>
-      <mask>*-items.xml</mask>
-      <mask>*.impex</mask>
       <mask>*.jsp,*.tag</mask>
       <mask>*.js</mask>
       <mask>*.tag,*.jsp</mask>
       <mask>*.java, *.tag, *.jsp</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*i.xml</mask>
       <mask>*imt.xml</mask>
       <mask>*im.xml</mask>
       <mask>*items-.xml</mask>
       <mask>*items.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.im</mask>
+      <mask>*.impe</mask>
+      <mask>*.impex</mask>
+      <mask>*.i</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*-</mask>
+      <mask>*-i</mask>
+      <mask>*-ie</mask>
+      <mask>*-item.xml</mask>
+      <mask>*-item.xm</mask>
+      <mask>*-item.x</mask>
+      <mask>*-item.</mask>
+      <mask>*-item</mask>
+      <mask>*-items</mask>
+      <mask>*-items.</mask>
+      <mask>*-items.xm</mask>
+      <mask>*-items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
