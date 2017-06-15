@@ -2,14 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="UI" />
     <option name="defaultScopeName" value="UI" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="UI" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.im</mask>
-      <mask>*.impe</mask>
       <mask>*.impex</mask>
       <mask>*.jsp|</mask>
       <mask>*.jsp,*.t</mask>
@@ -29,8 +26,6 @@
       <mask>*.t</mask>
       <mask>*.ta</mask>
       <mask>*.tag</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
@@ -38,6 +33,10 @@
       <mask>*.jsp,*</mask>
       <mask>*.jsp,*.</mask>
       <mask>*.jsp,*.tag</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
