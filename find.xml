@@ -6,18 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="UI" />
     <recentFileMasks>
-      <mask>*.impex</mask>
-      <mask>*.jsp|</mask>
-      <mask>*.jsp,*.t</mask>
-      <mask>i</mask>
-      <mask>ite</mask>
-      <mask>itemx</mask>
-      <mask>item</mask>
-      <mask>items</mask>
-      <mask>*-items.xml</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
@@ -32,10 +20,22 @@
       <mask>*.jsp,*</mask>
       <mask>*.jsp,*.</mask>
       <mask>*.jsp,*.tag</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*-</mask>
+      <mask>*-i</mask>
+      <mask>*-it</mask>
+      <mask>*-ite</mask>
+      <mask>*-itemx.</mask>
+      <mask>*-itemx</mask>
+      <mask>*-item</mask>
+      <mask>*-items</mask>
+      <mask>*-items.</mask>
+      <mask>*-items.x</mask>
+      <mask>*-items.xm</mask>
+      <mask>*-items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
