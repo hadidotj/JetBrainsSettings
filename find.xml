@@ -7,7 +7,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
-    <option name="FILE_MASK" value="*cart*.tag,*Cart*.jsp" />
     <recentFileMasks>
       <mask>*.im</mask>
       <mask>*.impe</mask>
