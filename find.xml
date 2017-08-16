@@ -5,8 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.im</mask>
       <mask>*.impe</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -14,8 +14,6 @@
       <mask>*.java</mask>
       <mask>*.i</mask>
       <mask>*.impex</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ta</mask>
       <mask>*.tag</mask>
@@ -36,6 +34,9 @@
       <mask>*cart*.tag,*C*.jsp</mask>
       <mask>*cart*.tag,*Car*.jsp</mask>
       <mask>*cart*.tag,*Cart*.jsp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
