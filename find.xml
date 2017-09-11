@@ -9,9 +9,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*itemx.</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
@@ -19,8 +18,6 @@
       <mask>*sc</mask>
       <mask>*scs</mask>
       <mask>*scss</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*itemx</mask>
       <mask>*item</mask>
       <mask>*items-</mask>
@@ -40,6 +37,10 @@
       <mask>hmc.</mask>
       <mask>hmc.xm</mask>
       <mask>hmc.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
