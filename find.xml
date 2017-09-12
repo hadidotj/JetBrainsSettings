@@ -7,22 +7,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
+    <option name="FILE_MASK" value="*_en.properties" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*sc</mask>
-      <mask>*scs</mask>
-      <mask>*scss</mask>
-      <mask>*itemx</mask>
-      <mask>*item</mask>
-      <mask>*items-</mask>
-      <mask>*items</mask>
-      <mask>*items.</mask>
-      <mask>*items.xm</mask>
-      <mask>*items.xml</mask>
-      <mask>*itemsxml</mask>
       <mask>*itemxml</mask>
       <mask>*itexml</mask>
       <mask>*itxml</mask>
@@ -34,10 +20,25 @@
       <mask>hmc.</mask>
       <mask>hmc.xm</mask>
       <mask>hmc.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.properite</mask>
+      <mask>*.properit</mask>
+      <mask>*.properi</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pr</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
+      <mask>*en_.properties</mask>
+      <mask>*en.properties</mask>
+      <mask>*_en.properties</mask>
     </recentFileMasks>
   </component>
 </application>
