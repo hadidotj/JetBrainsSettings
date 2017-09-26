@@ -6,20 +6,10 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
     <recentFileMasks>
-      <mask>*itemxml</mask>
-      <mask>*itexml</mask>
-      <mask>*itxml</mask>
-      <mask>*ixml</mask>
-      <mask>*xml</mask>
-      <mask>h</mask>
-      <mask>hm</mask>
-      <mask>hmc</mask>
-      <mask>hmc.</mask>
       <mask>hmc.xm</mask>
       <mask>hmc.xml</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*.properite</mask>
       <mask>*.properit</mask>
       <mask>*.properi</mask>
@@ -36,6 +26,16 @@
       <mask>*en_.properties</mask>
       <mask>*en.properties</mask>
       <mask>*_en.properties</mask>
+      <mask>*</mask>
+      <mask>*-</mask>
+      <mask>*-i</mask>
+      <mask>*-itemx.</mask>
+      <mask>*-itemx</mask>
+      <mask>*-item</mask>
+      <mask>*-items</mask>
+      <mask>*-items.</mask>
+      <mask>*-items.xm</mask>
+      <mask>*-items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
