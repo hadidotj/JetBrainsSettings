@@ -7,12 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*items.xml" />
     <recentFileMasks>
-      <mask>hmc.xml</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.properite</mask>
       <mask>*.properit</mask>
       <mask>*.properi</mask>
       <mask>*.prope</mask>
@@ -39,6 +35,10 @@
       <mask>*-items.xm</mask>
       <mask>*-items.xml</mask>
       <mask>*.xml</mask>
+      <mask>*i.xml</mask>
+      <mask>*item.xml</mask>
+      <mask>*items-.xml</mask>
+      <mask>*items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
