@@ -3,18 +3,14 @@
     <option name="customScope" value="Entegris" />
     <option name="defaultScopeName" value="Entegris" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>!*-test.java*</mask>
-      <mask>*.java,!*-test.java</mask>
-      <mask>*.java!*-test.java</mask>
-      <mask>*.jav!*-test.java</mask>
-      <mask>*.ja!*-test.java</mask>
-      <mask>*.j!*-test.java</mask>
-      <mask>*.!*-test.java</mask>
       <mask>*!*-test.java</mask>
       <mask>!*-test.java</mask>
       <mask>!*test.java</mask>
@@ -38,6 +34,13 @@
       <mask>extensioninfo.</mask>
       <mask>extensioninfo.xm</mask>
       <mask>extensioninfo.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
