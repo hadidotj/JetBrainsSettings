@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>extensionin</mask>
       <mask>extensioninfo</mask>
@@ -17,7 +18,6 @@
       <mask>*.cs</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
@@ -38,6 +38,7 @@
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.jsp,*.tag</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
