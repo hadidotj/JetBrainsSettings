@@ -5,14 +5,12 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Entegris" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.tag,</mask>
       <mask>*.tag,*</mask>
       <mask>*.tag,*.</mask>
       <mask>*.tag,*.j</mask>
       <mask>*.tag,*.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -36,6 +34,9 @@
       <mask>*hm.xml</mask>
       <mask>*hmc.xml</mask>
       <mask>*.tag,*.jsp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
