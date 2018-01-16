@@ -9,11 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.tagm</mask>
-      <mask>*.tag,*.w</mask>
       <mask>*.tag,*.t</mask>
       <mask>*.tag,*.js</mask>
       <mask>*-i</mask>
@@ -22,7 +18,6 @@
       <mask>*-items.xmls</mask>
       <mask>*.t</mask>
       <mask>*.tag</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.tag,$.</mask>
       <mask>*.tag,$</mask>
@@ -32,7 +27,6 @@
       <mask>*.tag,*.jsp</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*-</mask>
       <mask>*-item</mask>
       <mask>*-itemx</mask>
@@ -40,6 +34,11 @@
       <mask>*-items</mask>
       <mask>*-items.</mask>
       <mask>*-items.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cp</mask>
+      <mask>*.cpp</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
