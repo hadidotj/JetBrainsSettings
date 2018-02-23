@@ -9,37 +9,38 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.tag,*.jsp</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*-</mask>
-      <mask>*-item</mask>
-      <mask>*-itemx</mask>
-      <mask>*-itemx.</mask>
-      <mask>*-items</mask>
-      <mask>*-items.</mask>
-      <mask>*.c</mask>
-      <mask>*.cp</mask>
-      <mask>*.cpp</mask>
-      <mask>*-items.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>**.xml</mask>
-      <mask>*spri*.xml</mask>
-      <mask>*spring*.xml</mask>
-      <mask>C</mask>
-      <mask>Co</mask>
-      <mask>Cont</mask>
-      <mask>Contro</mask>
       <mask>Control</mask>
       <mask>Controller.</mask>
       <mask>Controller.jav</mask>
       <mask>&amp;Controller.java</mask>
       <mask>Controller.java</mask>
       <mask>*Controller.java</mask>
+      <mask>*(&lt;!_.java</mask>
+      <mask>*(&lt;!.java</mask>
+      <mask>*(&lt;.java</mask>
+      <mask>*((.java</mask>
+      <mask>*(?!&lt;test).java</mask>
+      <mask>*(?!&lt;test.java</mask>
+      <mask>*(?!&lt;tes.java</mask>
+      <mask>*(?!&lt;te.java</mask>
+      <mask>*(?!&lt;t.java</mask>
+      <mask>*(?!&lt;.java</mask>
+      <mask>*(?!.java</mask>
+      <mask>*(?.java</mask>
+      <mask>*(Test).java</mask>
+      <mask>*(Test.java</mask>
+      <mask>*(Tes.java</mask>
+      <mask>*(Te.java</mask>
+      <mask>*(T.java</mask>
+      <mask>*(test).java</mask>
+      <mask>*(test.java</mask>
+      <mask>*(tes.java</mask>
+      <mask>*(te.java</mask>
+      <mask>*(t.java</mask>
+      <mask>*(.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
