@@ -10,16 +10,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
     <recentFileMasks>
-      <mask>*-items.xm</mask>
-      <mask>*-items.xmls</mask>
-      <mask>*.t</mask>
-      <mask>*.tag</mask>
-      <mask>*.j</mask>
-      <mask>*.tag,$.</mask>
-      <mask>*.tag,$</mask>
-      <mask>*.tag,</mask>
-      <mask>*.tag,*</mask>
-      <mask>*.tag,*.</mask>
       <mask>*.tag,*.jsp</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -40,6 +30,16 @@
       <mask>**.xml</mask>
       <mask>*spri*.xml</mask>
       <mask>*spring*.xml</mask>
+      <mask>C</mask>
+      <mask>Co</mask>
+      <mask>Cont</mask>
+      <mask>Contro</mask>
+      <mask>Control</mask>
+      <mask>Controller.</mask>
+      <mask>Controller.jav</mask>
+      <mask>&amp;Controller.java</mask>
+      <mask>Controller.java</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>
