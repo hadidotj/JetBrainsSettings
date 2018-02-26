@@ -9,11 +9,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
-    <option name="FILE_MASK" value="*.jsp,*.tag" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*(&lt;.java</mask>
-      <mask>*((.java</mask>
-      <mask>*(?!&lt;test).java</mask>
       <mask>*(?!&lt;test.java</mask>
       <mask>*(?!&lt;tes.java</mask>
       <mask>*(?!&lt;te.java</mask>
@@ -32,7 +29,6 @@
       <mask>*(te.java</mask>
       <mask>*(t.java</mask>
       <mask>*(.java</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
@@ -41,6 +37,10 @@
       <mask>*.jsp,*.</mask>
       <mask>*.jsp,*.t</mask>
       <mask>*.jsp,*.tag</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
