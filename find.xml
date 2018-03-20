@@ -8,8 +8,8 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
+    <option name="FILE_MASK" value="*.jsp,*.tag" />
     <recentFileMasks>
-      <mask>*(?!&lt;tes.java</mask>
       <mask>*(?!&lt;te.java</mask>
       <mask>*(?!&lt;t.java</mask>
       <mask>*(?!&lt;.java</mask>
@@ -26,19 +26,20 @@
       <mask>*(te.java</mask>
       <mask>*(t.java</mask>
       <mask>*(.java</mask>
-      <mask>*.jsp,</mask>
-      <mask>*.jsp,*</mask>
-      <mask>*.jsp,*.</mask>
-      <mask>*.jsp,*.t</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.jsp,*.tag</mask>
       <mask>*.tag</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp,*</mask>
+      <mask>*.jsp,*.</mask>
+      <mask>*.jsp,*.t</mask>
+      <mask>*.jsp,*.ta</mask>
+      <mask>*.jsp,*.tag</mask>
     </recentFileMasks>
   </component>
 </application>
