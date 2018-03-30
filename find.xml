@@ -10,6 +10,7 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp,*.tag" />
     <recentFileMasks>
       <mask>*(?!&lt;te.java</mask>
       <mask>*(?!&lt;t.java</mask>
@@ -28,6 +29,10 @@
       <mask>*(t.java</mask>
       <mask>*(.java</mask>
       <mask>*.tag</mask>
+      <mask>*.jsp,*.ta</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
@@ -36,11 +41,7 @@
       <mask>*.jsp,*</mask>
       <mask>*.jsp,*.</mask>
       <mask>*.jsp,*.t</mask>
-      <mask>*.jsp,*.ta</mask>
       <mask>*.jsp,*.tag</mask>
-      <mask>*</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
