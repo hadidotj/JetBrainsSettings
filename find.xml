@@ -16,7 +16,6 @@
       <mask>*(.java</mask>
       <mask>*.tag</mask>
       <mask>*.jsp,*.ta</mask>
-      <mask>*.jav</mask>
       <mask>*.jsp</mask>
       <mask>*.jsp,</mask>
       <mask>*.jsp,*</mask>
@@ -29,14 +28,15 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.jsp,*.tag</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.i</mask>
       <mask>*.im</mask>
       <mask>*.imp</mask>
       <mask>*.impe</mask>
       <mask>*.impex</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
