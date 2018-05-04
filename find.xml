@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Signet" />
+    <option name="defaultScopeName" value="Signet" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Signet" />
     <recentFileMasks>
       <mask>*(T.java</mask>
       <mask>*(test).java</mask>
