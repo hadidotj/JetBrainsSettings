@@ -6,37 +6,15 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
-    <recentFileMasks>
-      <mask>*(T.java</mask>
-      <mask>*(test).java</mask>
-      <mask>*(test.java</mask>
-      <mask>*(tes.java</mask>
-      <mask>*(te.java</mask>
-      <mask>*(t.java</mask>
-      <mask>*(.java</mask>
-      <mask>*.tag</mask>
-      <mask>*.jsp,*.ta</mask>
-      <mask>*.jsp</mask>
-      <mask>*.jsp,</mask>
-      <mask>*.jsp,*</mask>
-      <mask>*.jsp,*.</mask>
-      <mask>*.jsp,*.t</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.l</mask>
-      <mask>*.jsp,*.tag</mask>
-      <mask>*.i</mask>
-      <mask>*.im</mask>
-      <mask>*.imp</mask>
-      <mask>*.impe</mask>
-      <mask>*.impex</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.java" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
