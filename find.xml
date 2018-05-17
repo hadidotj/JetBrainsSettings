@@ -6,7 +6,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
-    <option name="FILE_MASK" value="*.impex" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,5 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
