@@ -19,7 +19,7 @@
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.less</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.js</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
