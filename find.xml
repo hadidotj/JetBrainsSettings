@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,10 +17,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
