@@ -12,10 +12,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.java</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.impex</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
