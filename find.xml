@@ -17,8 +17,8 @@
     <mask>*.js</mask>
     <mask>*.impex</mask>
     <mask>*.xml</mask>
-    <mask>*.less</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.jsp,*.tag,*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
