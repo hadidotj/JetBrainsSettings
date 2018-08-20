@@ -17,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>*.jsp,*.tag</mask>
+    <mask>*.jsp,*.tag,*.js</mask>
   </component>
 </application>
