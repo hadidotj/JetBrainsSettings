@@ -9,7 +9,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
-    <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -23,5 +22,6 @@
     <mask>*.less</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
