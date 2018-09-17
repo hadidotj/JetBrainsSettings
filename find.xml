@@ -20,9 +20,9 @@
     <mask>*.jsp,*.tag,*.js</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>*.impex</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
+    <mask>*.less</mask>
   </component>
 </application>
