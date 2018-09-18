@@ -16,12 +16,13 @@
     <mask>*.xml</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.jsp,*.tag,*.js</mask>
-    <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.impex</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>*.less</mask>
     <mask>*.tag,*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>wizardConfig_*.xml</mask>
   </component>
 </application>
