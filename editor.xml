@@ -3,10 +3,6 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
@@ -20,6 +16,11 @@
     <pattern useCustomColors="true" pattern="\bwarning\b.*">
       <option name="FOREGROUND" value="bfbd39" />
       <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\bCR\b.*">
+      <option name="FOREGROUND" value="c49a03" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="e3cc00" />
     </pattern>
   </component>
 </application>
