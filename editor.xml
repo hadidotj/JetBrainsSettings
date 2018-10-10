@@ -22,5 +22,8 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="e3cc00" />
     </pattern>
+    <filter name="Code Reviews">
+      <pattern index="4" />
+    </filter>
   </component>
 </application>
