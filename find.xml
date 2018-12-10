@@ -18,7 +18,6 @@
     <mask>*.impex</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
-    <mask>*.tag,*.jsp</mask>
     <mask>wizardConfig_*.xml</mask>
     <mask>*.js</mask>
     <mask>*-items.xml</mask>
@@ -30,5 +29,6 @@
     <mask>*.java</mask>
     <mask>*.less</mask>
     <mask>*.tag</mask>
+    <mask>*.tag,*.jsp</mask>
   </component>
 </application>
