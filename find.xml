@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -19,7 +20,6 @@
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>wizardConfig_*.xml</mask>
-    <mask>*.js</mask>
     <mask>*-items.xml</mask>
     <mask>amp*</mask>
     <mask>*.xml</mask>
@@ -30,5 +30,6 @@
     <mask>*.tag</mask>
     <mask>*.tag,*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>*.js</mask>
   </component>
 </application>
