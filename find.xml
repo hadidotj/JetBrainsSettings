@@ -36,6 +36,7 @@
     <mask>!jquery.form*,!base-plugins.js</mask>
     <mask>!*hoverintent*</mask>
     <mask>!*syncheight*,!*base-plugins.js</mask>
+    <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
   </component>
 </application>
