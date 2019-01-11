@@ -21,7 +21,6 @@
     <mask>*.java</mask>
     <mask>*.tag</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>!*jquery*,!base-plugins.js</mask>
     <mask>!jquery.blockUI*,!base-plugins.js</mask>
     <mask>!jquery.form*,!base-plugins.js</mask>
@@ -32,5 +31,6 @@
     <mask>*.tag,*.jsp</mask>
     <mask>*.less</mask>
     <mask>!*blockUI*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
