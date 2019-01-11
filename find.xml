@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="showResultsInSeparateView" value="true" />
-    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -33,5 +31,6 @@
     <mask>!*base-plugins.js</mask>
     <mask>*.tag,*.jsp</mask>
     <mask>*.less</mask>
+    <mask>!*blockUI*</mask>
   </component>
 </application>
