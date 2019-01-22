@@ -29,9 +29,9 @@
     <mask>*.less</mask>
     <mask>!*blockUI*</mask>
     <mask>!*.js</mask>
-    <mask>*.tag,*.jsp</mask>
-    <mask>*.js</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*items.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.tag,*.jsp</mask>
   </component>
 </application>
