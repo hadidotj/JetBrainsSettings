@@ -4,7 +4,12 @@
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
+    <pattern useCustomColors="true" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="a2000b" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="e3b8c9" />
+      <option name="ERROR_STRIPE_COLOR" value="e3001a" />
+    </pattern>
     <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="bf0008" />
       <option name="FONT_TYPE" value="3" />
