@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.jsp,*.tag,*.js</mask>
@@ -17,7 +18,6 @@
     <mask>amp*</mask>
     <mask>*.xml</mask>
     <mask>*.tag,</mask>
-    <mask>*.java</mask>
     <mask>*.tag</mask>
     <mask>*.properties</mask>
     <mask>!*jquery*,!base-plugins.js</mask>
@@ -37,5 +37,6 @@
     <mask>*.tag,*.jsp</mask>
     <mask>*.impex</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
