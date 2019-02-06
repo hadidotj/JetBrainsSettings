@@ -9,8 +9,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tag,*.jsp" />
-    <mask>*.mxml</mask>
     <mask>*.jsp,*.tag,*.js</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
@@ -40,5 +38,6 @@
     <mask>*.tag.,*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.tag,*.jsp</mask>
+    <mask>!*.css</mask>
   </component>
 </application>
