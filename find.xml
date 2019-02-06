@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tag,*.jsp" />
     <mask>*.mxml</mask>
     <mask>*.jsp,*.tag,*.js</mask>
     <mask>*.jsp,*.tag,*.less</mask>
@@ -32,10 +33,10 @@
     <mask>*.less</mask>
     <mask>*jquery*</mask>
     <mask>!*package-lock*,</mask>
-    <mask>*.tag,*.jsp</mask>
     <mask>*.impex</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.tag.,*.jsp</mask>
+    <mask>*.tag,*.jsp</mask>
   </component>
 </application>
