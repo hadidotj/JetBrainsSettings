@@ -28,7 +28,6 @@
     <mask>!*base-plugins.js</mask>
     <mask>!*blockUI*</mask>
     <mask>!*.js</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*items.xml</mask>
     <mask>*jquery*</mask>
     <mask>!*package-lock*,</mask>
@@ -39,6 +38,7 @@
     <mask>*.less</mask>
     <mask>*.java</mask>
     <mask>*.tag</mask>
+    <mask>*.jsp,*.tag</mask>
     <mask>*.js</mask>
   </component>
 </application>
