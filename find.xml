@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
     <mask>*.jsp,*.tag,*.js</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
@@ -28,7 +27,6 @@
     <mask>*items.xml</mask>
     <mask>*jquery*</mask>
     <mask>!*package-lock*,</mask>
-    <mask>*.impex</mask>
     <mask>*.tag.,*.jsp</mask>
     <mask>!*.css</mask>
     <mask>*.less</mask>
@@ -38,5 +36,6 @@
     <mask>*.js</mask>
     <mask>*.tag,*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
