@@ -32,12 +32,12 @@
     <mask>!*package-lock*,</mask>
     <mask>*.impex</mask>
     <mask>*.tag.,*.jsp</mask>
-    <mask>*.tag,*.jsp</mask>
     <mask>!*.css</mask>
     <mask>*.less</mask>
     <mask>*.java</mask>
     <mask>*.tag</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.js</mask>
+    <mask>*.tag,*.jsp</mask>
   </component>
 </application>
