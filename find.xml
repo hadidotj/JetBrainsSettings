@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp,*.tag,*.js</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
@@ -33,9 +34,9 @@
     <mask>*.java</mask>
     <mask>*.tag</mask>
     <mask>*.jsp,*.tag</mask>
-    <mask>*.js</mask>
     <mask>*.tag,*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.js</mask>
   </component>
 </application>
