@@ -34,10 +34,10 @@
     <mask>*.less</mask>
     <mask>*.java</mask>
     <mask>*.tag</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.tag,*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.js</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
