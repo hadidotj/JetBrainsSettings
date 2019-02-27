@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
+    <option name="FILE_MASK" value="*.tag,*.jsp" />
     <mask>*.jsp,*.tag,*.js</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
@@ -32,8 +33,8 @@
     <mask>*.xml</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.tag</mask>
-    <mask>*.tag,*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.impex</mask>
+    <mask>*.tag,*.jsp</mask>
   </component>
 </application>
