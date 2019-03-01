@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="pj-layout3" type="JavaScript" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="sdf" type="PLAIN_TEXT" />
       <mapping ext="var" type="PLAIN_TEXT" />
     </extensionMap>
