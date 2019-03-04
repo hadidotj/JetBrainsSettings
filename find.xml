@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tag,*.jsp" />
     <mask>*.jsp,*.tag,*.js</mask>
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
@@ -33,7 +36,7 @@
     <mask>*.jsp,*.tag</mask>
     <mask>*.tag</mask>
     <mask>*.impex</mask>
-    <mask>*.tag,*.jsp</mask>
     <mask>*.js</mask>
+    <mask>*.tag,*.jsp</mask>
   </component>
 </application>
