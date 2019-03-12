@@ -19,7 +19,7 @@
     </pattern>
     <pattern icon="question" pattern="\bnote\b.*" />
     <pattern useCustomColors="true" pattern="\bwarning\b.*">
-      <option name="FOREGROUND" value="bfbd39" />
+      <option name="FOREGROUND" value="bf7200" />
       <option name="FONT_TYPE" value="3" />
     </pattern>
     <pattern icon="question" useCustomColors="true" pattern="\bCR\b.*">
