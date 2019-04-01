@@ -30,7 +30,6 @@
     <mask>*.tag.,*.jsp</mask>
     <mask>!*.css</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.impex</mask>
     <mask>*.tag,*.jsp</mask>
     <mask>*.js</mask>
@@ -39,5 +38,6 @@
     <mask>*.properties</mask>
     <mask>*.tag</mask>
     <mask>*.java</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
