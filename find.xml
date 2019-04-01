@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp,*.tag" />
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>wizardConfig_*.xml</mask>
@@ -37,7 +38,7 @@
     <mask>*.properties</mask>
     <mask>*.tag</mask>
     <mask>*.java</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.js</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
