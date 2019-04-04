@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>wizardConfig_*.xml</mask>
@@ -27,7 +27,6 @@
     <mask>*.tag.,*.jsp</mask>
     <mask>!*.css</mask>
     <mask>*.xml</mask>
-    <mask>*.impex</mask>
     <mask>*.tag,*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
@@ -36,5 +35,6 @@
     <mask>*.js</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.properties</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
