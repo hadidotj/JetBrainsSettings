@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Signet" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>wizardConfig_*.xml</mask>
@@ -31,11 +32,11 @@
     <mask>*.tag,*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.tag</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.properties</mask>
     <mask>*.impex</mask>
     <mask>*.less</mask>
+    <mask>*.java</mask>
   </component>
 </application>
