@@ -3,7 +3,6 @@
     <option name="customScope" value="Signet" />
     <option name="defaultScopeName" value="Signet" />
     <option name="SEARCH_SCOPE" value="Signet" />
-    <option name="FILE_MASK" value="*.less" />
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>wizardConfig_*.xml</mask>
