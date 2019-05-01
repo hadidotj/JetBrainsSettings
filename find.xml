@@ -29,11 +29,11 @@
     <mask>*.tag,*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.tag</mask>
-    <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
