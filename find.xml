@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Stores" />
-    <option name="defaultScopeName" value="Stores" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Stores" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.jsp,*.tag,*.less</mask>
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>wizardConfig_*.xml</mask>
@@ -33,7 +34,7 @@
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.jsp,*.tag</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
