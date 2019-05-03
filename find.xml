@@ -33,7 +33,7 @@
     <mask>*.impex</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
-    <mask>*.jsp,*.tag</mask>
     <mask>*.java</mask>
+    <mask>*.jsp,*.tag</mask>
   </component>
 </application>
