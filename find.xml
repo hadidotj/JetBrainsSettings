@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsp,*.tag,*.less</mask>
+    <option name="FILE_MASK" value="*less" />
     <mask>*.js,*.jsp,*.tag</mask>
     <mask>wizardConfig_*.xml</mask>
     <mask>*-items.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*.js</mask>
     <mask>*.jsp,*.tag</mask>
     <mask>*.java</mask>
+    <mask>*less</mask>
   </component>
 </application>
