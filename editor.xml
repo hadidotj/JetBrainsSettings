@@ -4,31 +4,11 @@
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern useCustomColors="true" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="a2000b" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="e3b8c9" />
-      <option name="ERROR_STRIPE_COLOR" value="e3001a" />
-    </pattern>
-    <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="bf0008" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="e35f62" />
-      <option name="ERROR_STRIPE_COLOR" value="e35f62" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern icon="question" pattern="\bnote\b.*" />
-    <pattern useCustomColors="true" pattern="\bwarning\b.*">
-      <option name="FOREGROUND" value="bf7200" />
-      <option name="FONT_TYPE" value="3" />
-    </pattern>
-    <pattern icon="question" useCustomColors="true" pattern="\bCR\b.*">
-      <option name="FOREGROUND" value="c49a03" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="e3cc00" />
-    </pattern>
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <filter name="Code Reviews">
-      <pattern index="4" />
+      <pattern index="-1" />
     </filter>
   </component>
 </application>
