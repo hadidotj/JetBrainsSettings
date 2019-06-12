@@ -9,6 +9,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="shouldPromoteEditAndContinue" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
