@@ -10,6 +10,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="evaluationTimeoutMs" value="60000" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="shouldPromoteEditAndContinue" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
