@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.scss" />
     <mask>amp*</mask>
     <mask>*.tag,</mask>
     <mask>!*jquery*,!base-plugins.js</mask>
