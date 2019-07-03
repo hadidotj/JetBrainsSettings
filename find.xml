@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>amp*</mask>
     <mask>*.tag,</mask>
     <mask>!*jquery*,!base-plugins.js</mask>
@@ -31,7 +32,7 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.cs</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
