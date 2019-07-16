@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="Project 'InsiteCommerce.Web'" />
+    <option name="defaultScopeName" value="Project 'InsiteCommerce.Web'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>amp*</mask>
+    <option name="SEARCH_SCOPE" value="Project 'InsiteCommerce.Web'" />
+    <option name="FILE_MASK" value="*.config" />
     <mask>*.tag,</mask>
     <mask>!*jquery*,!base-plugins.js</mask>
     <mask>!jquery.blockUI*,!base-plugins.js</mask>
@@ -35,5 +35,6 @@
     <mask>*.cs</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.config</mask>
   </component>
 </application>
