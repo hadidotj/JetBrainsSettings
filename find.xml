@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.tag,</mask>
     <mask>!*jquery*,!base-plugins.js</mask>
     <mask>!jquery.blockUI*,!base-plugins.js</mask>
@@ -31,9 +32,9 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.cs</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.config</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
