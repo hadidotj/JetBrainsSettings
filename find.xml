@@ -3,12 +3,9 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.cs" />
-    <mask>*.tag,</mask>
+    <option name="FILE_MASK" value="*.cshtml" />
     <mask>!*jquery*,!base-plugins.js</mask>
     <mask>!jquery.blockUI*,!base-plugins.js</mask>
     <mask>!jquery.form*,!base-plugins.js</mask>
@@ -38,5 +35,6 @@
     <mask>*.ts</mask>
     <mask>*.config</mask>
     <mask>*.cs</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
