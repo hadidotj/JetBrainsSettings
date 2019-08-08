@@ -7,5 +7,10 @@
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="performance.watcher.sampling.interval.ms" value="100" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="500" />
+    <entry key="ide.borderless.title.project.path" value="false" />
+    <entry key="ide.borderless.title.classpath" value="false" />
+    <entry key="ide.borderless.title.product" value="false" />
   </component>
 </application>
