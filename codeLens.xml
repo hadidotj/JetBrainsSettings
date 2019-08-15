@@ -1,5 +1,5 @@
 <application>
-  <component name="CodeLensSettings">
+  <component name="CodeLensSettings" enabled="false">
     <enabled>
       <map />
     </enabled>
