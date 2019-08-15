@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>!*jquery*,!base-plugins.js</mask>
+    <option name="FILE_MASK" value="*.sql" />
     <mask>!jquery.blockUI*,!base-plugins.js</mask>
     <mask>!jquery.form*,!base-plugins.js</mask>
     <mask>!*hoverintent*</mask>
@@ -37,5 +37,6 @@
     <mask>*.config</mask>
     <mask>*.cs</mask>
     <mask>*.cshtml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
