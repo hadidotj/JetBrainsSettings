@@ -3,7 +3,9 @@
     <option name="customScope" value="Selected Files And Folders" />
     <option name="defaultScopeName" value="Selected Files And Folders" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
     <mask>!jquery.blockUI*,!base-plugins.js</mask>
     <mask>!jquery.form*,!base-plugins.js</mask>
