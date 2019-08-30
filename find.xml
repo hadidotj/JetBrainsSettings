@@ -1,12 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DWR'" />
-    <option name="defaultScopeName" value="Project 'DWR'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'DWR'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>!jquery.blockUI*,!base-plugins.js</mask>
     <mask>!jquery.form*,!base-plugins.js</mask>
     <mask>!*hoverintent*</mask>
@@ -31,11 +34,11 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.config</mask>
     <mask>*.cs</mask>
     <mask>*.cshtml</mask>
     <mask>*.sql</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
