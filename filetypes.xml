@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="pj-layout3" type="JavaScript" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="PLAIN_TEXT" />
       <mapping ext="sdf" type="PLAIN_TEXT" />
       <mapping ext="var" type="PLAIN_TEXT" />
