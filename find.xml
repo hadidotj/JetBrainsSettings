@@ -3,9 +3,11 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.cs" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>!jquery.form*,!base-plugins.js</mask>
     <mask>!*hoverintent*</mask>
     <mask>!*syncheight*,!*base-plugins.js</mask>
@@ -34,7 +36,7 @@
     <mask>*.sql</mask>
     <mask>*.cshtml,*.ts,*liquid</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.cs</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
