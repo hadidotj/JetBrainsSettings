@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <mask>!jquery.form*,!base-plugins.js</mask>
     <mask>!*hoverintent*</mask>
     <mask>!*syncheight*,!*base-plugins.js</mask>
@@ -27,11 +28,11 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.config</mask>
-    <mask>*.cshtml</mask>
     <mask>*.sql</mask>
     <mask>*.cshtml,*.ts,*liquid</mask>
     <mask>*.scss</mask>
     <mask>*.cs</mask>
     <mask>*.ts</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
