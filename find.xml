@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected Files And Folders" />
-    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="customScope" value="Project 'DWR'" />
+    <option name="defaultScopeName" value="Project 'DWR'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Project 'DWR'" />
     <mask>!jquery.form*,!base-plugins.js</mask>
     <mask>!*hoverintent*</mask>
     <mask>!*syncheight*,!*base-plugins.js</mask>
