@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="GotoSymbol" />
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
+</keymap>
