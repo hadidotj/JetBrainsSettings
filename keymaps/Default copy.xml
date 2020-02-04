@@ -1,14 +1,14 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
-    <keyboard-shortcut first-keystroke="alt back_space" />
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
-  <action id="Editor Undo">
+  <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
