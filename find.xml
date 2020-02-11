@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>!jquery.form*,!base-plugins.js</mask>
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>!*hoverintent*</mask>
     <mask>!*syncheight*,!*base-plugins.js</mask>
     <mask>!*mask*,!*base-plugins.js</mask>
@@ -35,5 +33,6 @@
     <mask>*.scss</mask>
     <mask>*.cshtml</mask>
     <mask>*.cs</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
