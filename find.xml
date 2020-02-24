@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <mask>!*hoverintent*</mask>
     <mask>!*syncheight*,!*base-plugins.js</mask>
     <mask>!*mask*,!*base-plugins.js</mask>
@@ -30,8 +31,8 @@
     <mask>*.cshtml,*.ts,*liquid</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.cshtml</mask>
     <mask>*.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
