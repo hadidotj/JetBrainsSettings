@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="liquid" type="XHTML" />
+      <mapping ext="liquid" type="Razor" />
+      <removed_mapping ext="liquid" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
