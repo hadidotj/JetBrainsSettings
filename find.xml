@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>!*hoverintent*</mask>
     <mask>!*syncheight*,!*base-plugins.js</mask>
     <mask>!*mask*,!*base-plugins.js</mask>
@@ -32,8 +33,8 @@
     <mask>*.cshtml,*.ts,*liquid</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.cshtml</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
