@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
     <mask>!*blockUI*</mask>
@@ -32,12 +33,12 @@
     <mask>*.config</mask>
     <mask>*.sql</mask>
     <mask>*.cshtml,*.ts,*liquid</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.csproj</mask>
     <mask>*.cs</mask>
     <mask>*.cshtml</mask>
     <mask>*Widgets*.cshtml</mask>
     <mask>*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
