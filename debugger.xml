@@ -11,16 +11,17 @@
         <configuration>
           <option name="evaluationTimeoutMs" value="60000" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
+          <option name="showDebuggerEventsInOutput" value="false" />
         </configuration>
       </debugger>
       <debugger id="oracle">
         <configuration>
           <option name="steppingPauseAtBegin" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
