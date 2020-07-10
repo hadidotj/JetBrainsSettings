@@ -12,6 +12,7 @@
           <option name="evaluationTimeoutMs" value="60000" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showDebuggerEventsInOutput" value="false" />
+          <option name="showRunToPanel" value="false" />
         </configuration>
       </debugger>
       <debugger id="javascript">
