@@ -1,12 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'BradyIndustries'" />
+    <option name="defaultScopeName" value="Project 'BradyIndustries'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Project 'BradyIndustries'" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
     <mask>!*blockUI*</mask>
@@ -34,8 +37,8 @@
     <mask>*Widgets*.cshtml</mask>
     <mask>*.json</mask>
     <mask>*.cshtml</mask>
-    <mask>*.ts</mask>
     <mask>*.cs</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
