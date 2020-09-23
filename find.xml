@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'BradyIndustries'" />
-    <option name="defaultScopeName" value="Project 'BradyIndustries'" />
-    <option name="SEARCH_SCOPE" value="Project 'BradyIndustries'" />
+    <option name="customScope" value="Selected Files And Folders" />
+    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
     <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
     <mask>!*blockUI*</mask>
