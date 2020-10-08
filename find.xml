@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'InsiteCommerce.Web'" />
+    <option name="defaultScopeName" value="Project 'InsiteCommerce.Web'" />
+    <option name="SEARCH_SCOPE" value="Project 'InsiteCommerce.Web'" />
     <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
     <mask>!*blockUI*</mask>
