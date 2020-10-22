@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Selected Files And Folders" />
     <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
     <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
