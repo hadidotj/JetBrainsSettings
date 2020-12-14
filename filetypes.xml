@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="liquid" type="Razor" />
+      <mapping pattern=".rels" type="XML" />
+      <mapping ext="rels" type="XML" />
+      <removed_mapping ext="liquid" approved="true" type="HTML" />
+    </extensionMap>
+  </component>
+</application>
