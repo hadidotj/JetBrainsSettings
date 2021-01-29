@@ -9,7 +9,6 @@
       <option name="HAS_BRACES" value="true" />
       <option name="HAS_BRACKETS" value="true" />
       <option name="HAS_PARENS" value="true" />
-      <option name="HAS_STRING_ESCAPES" value="true" />
       <option name="LINE_COMMENT_AT_START" value="true" />
     </options>
     <keywords keywords="delete;insert;insert_update;update" ignore_case="true" />
