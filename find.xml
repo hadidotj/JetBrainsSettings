@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Znode.Engine.Admin'" />
-    <option name="defaultScopeName" value="Project 'Znode.Engine.Admin'" />
+    <option name="customScope" value="Project 'Znode.Engine.WebStore'" />
+    <option name="defaultScopeName" value="Project 'Znode.Engine.WebStore'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Znode.Engine.Admin'" />
+    <option name="SEARCH_SCOPE" value="Project 'Znode.Engine.WebStore'" />
+    <option name="FILE_MASK" value="*.config" />
     <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
     <mask>!*blockUI*</mask>
@@ -25,7 +26,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.config</mask>
     <mask>*.sql</mask>
     <mask>*.cshtml,*.ts,*liquid</mask>
     <mask>*.csproj</mask>
@@ -35,5 +35,6 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.cs</mask>
+    <mask>*.config</mask>
   </component>
 </application>
