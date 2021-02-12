@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>!*mask*,!*base-plugins.js</mask>
     <mask>!*base-plugins.js</mask>
     <mask>!*blockUI*</mask>
@@ -27,7 +28,6 @@
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.cshtml,*.ts,*liquid</mask>
-    <mask>*.csproj</mask>
     <mask>*Widgets*.cshtml</mask>
     <mask>*.json</mask>
     <mask>*.cshtml</mask>
@@ -35,5 +35,6 @@
     <mask>*.ts</mask>
     <mask>*.cs</mask>
     <mask>*.config</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
