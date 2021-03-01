@@ -9,6 +9,8 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="applyChangesOnDebugAction" value="false" />
+          <option name="editAndContinueEnabled" value="false" />
           <option name="evaluationTimeoutMs" value="60000" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showDebuggerEventsInOutput" value="false" />
