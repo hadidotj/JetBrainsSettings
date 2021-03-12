@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Znode.Engine.Api'" />
-    <option name="defaultScopeName" value="Project 'Znode.Engine.Api'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Znode.Engine.Api'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>!*blockUI*</mask>
     <mask>!*.js</mask>
     <mask>*items.xml</mask>
@@ -30,10 +33,10 @@
     <mask>*.cshtml</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.config</mask>
     <mask>*cshtml</mask>
     <mask>insite*.ts</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
