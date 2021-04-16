@@ -10,6 +10,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Consolas" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
@@ -47,6 +49,13 @@
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a8c023" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PLAT-DEV)(\W|$)(.*)">
+      <option name="FOREGROUND" value="24bd38" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="198f25" />
+      <option name="ERROR_STRIPE_COLOR" value="a52eb4" />
+      <option name="EFFECT_TYPE" value="5" />
     </pattern>
   </component>
   <component name="YamlEditorOptions">
