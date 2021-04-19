@@ -43,13 +43,13 @@
     <option name="tableQualification" value="Always" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)">
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a8c023" />
     </pattern>
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="\bNotImplementedException\b" />
     <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PLAT-DEV)(\W|$)(.*)">
       <option name="FOREGROUND" value="24bd38" />
       <option name="FONT_TYPE" value="2" />
