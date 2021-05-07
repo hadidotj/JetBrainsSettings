@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>!*blockUI*</mask>
-    <mask>!*.js</mask>
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>*items.xml</mask>
     <mask>*jquery*</mask>
     <mask>!*package-lock*,</mask>
@@ -30,10 +29,12 @@
     <mask>*.cshtml</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*.csproj</mask>
     <mask>*.config</mask>
     <mask>*cshtml</mask>
     <mask>insite*.ts</mask>
     <mask>*.cs</mask>
+    <mask>packages.json</mask>
+    <mask>packages.config</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
