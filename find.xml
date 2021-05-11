@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*items.xml</mask>
     <mask>*jquery*</mask>
     <mask>!*package-lock*,</mask>
@@ -29,9 +30,9 @@
     <mask>*.config</mask>
     <mask>*cshtml</mask>
     <mask>insite*.ts</mask>
-    <mask>*.cs</mask>
     <mask>packages.json</mask>
     <mask>packages.config</mask>
     <mask>*.csproj</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
