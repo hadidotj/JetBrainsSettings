@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*jquery*</mask>
     <mask>!*package-lock*,</mask>
     <mask>*.tag.,*.jsp</mask>
@@ -35,7 +36,7 @@
     <mask>packages.json</mask>
     <mask>packages.config</mask>
     <mask>*.csproj</mask>
-    <mask>*.cs</mask>
     <mask>*.liquid</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
