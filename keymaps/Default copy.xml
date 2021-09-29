@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
