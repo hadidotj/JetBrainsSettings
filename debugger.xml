@@ -23,6 +23,7 @@
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.AggregateException" />
               <option value="System.Web.Services.Protocols.SoapException" />
+              <option value="System.NullReferenceException" />
             </list>
           </option>
         </configuration>
