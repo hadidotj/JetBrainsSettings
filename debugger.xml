@@ -11,6 +11,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="enableExternalSourceDebug" value="false" />
           <option name="evaluationTimeoutMs" value="60000" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showDebuggerEventsInOutput" value="false" />
@@ -21,6 +22,7 @@
               <option value="System.Threading.Tasks.TaskCanceledException" />
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.AggregateException" />
+              <option value="System.Web.Services.Protocols.SoapException" />
             </list>
           </option>
         </configuration>
