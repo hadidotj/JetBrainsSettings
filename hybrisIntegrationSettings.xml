@@ -1,0 +1,15 @@
+<application>
+  <component name="HybrisApplicationSettings">
+    <option name="allowedSendingPlainStatistics" value="true" />
+    <option name="groupModules" value="false" />
+    <option name="usedActions">
+      <set>
+        <option value="IMPORT_PROJECT" />
+        <option value="REFRESH_PROJECT" />
+        <option value="OPEN_PROJECT" />
+        <option value="OPEN_POTENTIAL_PROJECT" />
+        <option value="BUILD_PROJECT" />
+      </set>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*jquery*</mask>
+    <mask>!*package-lock*,</mask>
+    <mask>*.tag.,*.jsp</mask>
+    <mask>!*.css</mask>
+    <mask>*.tag,*.jsp</mask>
+    <mask>*.css</mask>
+    <mask>*.tag</mask>
+    <mask>*.properties</mask>
+    <mask>*.impex</mask>
+    <mask>*.less</mask>
+    <mask>*.jsp,*.tag</mask>
+    <mask>*less</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.sql</mask>
+    <mask>*.cshtml,*.ts,*liquid</mask>
+    <mask>*Widgets*.cshtml</mask>
+    <mask>*.json</mask>
+    <mask>*.scss</mask>
+    <mask>*.ts</mask>
+    <mask>*.config</mask>
+    <mask>insite*.ts</mask>
+    <mask>packages.json</mask>
+    <mask>packages.config</mask>
+    <mask>*.liquid</mask>
+    <mask>*cshtml</mask>
+    <mask>*.csproj</mask>
+    <mask>*.cshtml</mask>
+    <mask>*.cs</mask>
+  </component>
+</application>

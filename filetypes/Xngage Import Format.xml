@@ -1,0 +1,22 @@
+<filetype binary="false" description="Xngage Import Format" name="Xngage Import Format">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+      <option name="LINE_COMMENT_AT_START" value="true" />
+    </options>
+    <keywords keywords="delete;insert;insert_update;update" ignore_case="true" />
+    <keywords2 keywords="%;print" />
+    <keywords3 keywords="converter;key;multi;value" />
+    <keywords4 keywords="false;no;off;on;true;yes" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="ximp" />
+  </extensionMap>
+</filetype>
