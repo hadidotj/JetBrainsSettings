@@ -7,6 +7,10 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Compile" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Editor Redo">
@@ -16,6 +20,7 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
@@ -36,6 +41,9 @@
   <action id="ShowParameterHintsSettings">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="com.jetbrains.rider.interactive.csi.StartCSharpInteractive">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" second-keystroke="c" />
