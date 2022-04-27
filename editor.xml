@@ -16,7 +16,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
