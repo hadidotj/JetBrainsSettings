@@ -24,6 +24,7 @@
               <option value="System.Web.Services.Protocols.SoapException" />
               <option value="System.NullReferenceException" />
               <option value="System.InvalidOperationException" />
+              <option value="System.ArgumentException" />
             </list>
           </option>
         </configuration>
