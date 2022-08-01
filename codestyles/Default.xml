@@ -1,3 +1,4 @@
 <code_scheme name="Default" version="173">
-  <option name="SOFT_MARGINS" value="120" />
+  <option name="RIGHT_MARGIN" value="125" />
+  <option name="SOFT_MARGINS" value="125,150" />
 </code_scheme>
