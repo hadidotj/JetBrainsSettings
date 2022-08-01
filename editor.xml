@@ -39,6 +39,7 @@
   <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
     <option name="CONVERT_HTML_TO_JSX" value="false" />
+    <option name="ESCAPE_DOC_ON_COPY_PASTE" value="false" />
   </component>
   <component name="JsonEditorOptions">
     <option name="COMMA_ON_ENTER" value="false" />
