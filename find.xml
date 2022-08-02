@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*jquery*</mask>
     <mask>!*package-lock*,</mask>
     <mask>*.tag.,*.jsp</mask>
