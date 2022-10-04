@@ -4,7 +4,9 @@
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
