@@ -35,7 +35,7 @@
     <mask>*.csproj</mask>
     <mask>*.cshtml</mask>
     <mask>*.sql</mask>
-    <mask>*.ts</mask>
     <mask>*.cs</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
