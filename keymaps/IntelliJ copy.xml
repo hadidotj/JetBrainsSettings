@@ -1,0 +1,5 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt 9" />
+  </action>
+</keymap>
