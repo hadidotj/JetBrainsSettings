@@ -2,10 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
     <mask>!*package-lock*,</mask>
     <mask>*.tag.,*.jsp</mask>
@@ -34,8 +30,8 @@
     <mask>*.csproj</mask>
     <mask>*.cshtml</mask>
     <mask>*.sql</mask>
-    <mask>*.cs</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.cs</mask>
   </component>
 </application>

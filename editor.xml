@@ -51,9 +51,9 @@
     <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
   <component name="SqlEditorOptions">
-    <option name="aliasQualification" value="Always" />
-    <option name="namespaceQualification" value="Always" />
-    <option name="tableQualification" value="Always" />
+    <option name="aliasQualification" value="ALWAYS" />
+    <option name="namespaceQualification" value="ALWAYS" />
+    <option name="tableQualification" value="ALWAYS" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />

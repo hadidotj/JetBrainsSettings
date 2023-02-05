@@ -1,0 +1,32 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt 9" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Compile" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorSelectWord" />
+  <action id="GotoSymbol" />
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
+  <action id="RebuildSolutionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
+  <action id="RiderRemoveAllLineBreakpoints" />
+  <action id="RiderUnitTestRunCurrentSessionTwAction" />
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
+  <action id="UsageFiltering.WriteAccess" />
+</keymap>
