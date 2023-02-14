@@ -6,6 +6,7 @@
       <mapping pattern=".rels" type="XML" />
       <mapping ext="rels" type="XML" />
       <removed_mapping ext="liquid" approved="true" type="HTML" />
+      <removed_mapping ext="tps" approved="true" type="XML" />
       <removed_mapping ext="ximp" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
