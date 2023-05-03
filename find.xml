@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Znode.Engine.Admin'" />
-    <option name="defaultScopeName" value="Project 'Znode.Engine.Admin'" />
-    <option name="SEARCH_SCOPE" value="Project 'Znode.Engine.Admin'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>!*package-lock*,</mask>
     <mask>*.tag.,*.jsp</mask>
     <mask>!*.css</mask>
