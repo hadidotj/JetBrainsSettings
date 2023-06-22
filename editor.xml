@@ -58,12 +58,14 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)">
-      <option name="FOREGROUND" value="a8c023" />
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)">
+      <option name="FOREGROUND" value="d78e00" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a8c023" />
+      <option name="EFFECT_COLOR" value="ffbd00" />
+      <option name="ERROR_STRIPE_COLOR" value="d78e00" />
     </pattern>
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;CHECK)(\W|$)(.*)" />
   </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
