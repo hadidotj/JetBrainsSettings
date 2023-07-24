@@ -11,7 +11,6 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="evaluationTimeoutMs" value="60000" />
-          <option name="ignorePrecompiledAssemblies" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showDebuggerEventsInOutput" value="false" />
           <option name="showRunToPanel" value="false" />
