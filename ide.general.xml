@@ -20,7 +20,6 @@
     <entry key="ide.title.debug" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="ide.experimental.ui" value="false" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="idea.plugins.compatible.build" value="" />
   </component>
   <component name="StatusBar">
