@@ -56,12 +56,14 @@
     <option name="tableQualification" value="ALWAYS" />
   </component>
   <component name="TodoConfiguration">
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)">
-      <option name="FOREGROUND" value="a8c023" />
+    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;CHECK)(\W|$)(.*)" />
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)">
+      <option name="FOREGROUND" value="d78e00" />
       <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a8c023" />
+      <option name="EFFECT_COLOR" value="ffbd00" />
+      <option name="ERROR_STRIPE_COLOR" value="d78e00" />
     </pattern>
   </component>
   <component name="YamlEditorOptions">
