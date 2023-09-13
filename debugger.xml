@@ -1,7 +1,6 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
     </data-views>
@@ -11,7 +10,9 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="breakOnUserUnhandledExceptions" value="false" />
           <option name="evaluationTimeoutMs" value="60000" />
+          <option name="ignorePrecompiledAssemblies" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="showDebuggerEventsInOutput" value="false" />
           <option name="showRunToPanel" value="false" />
