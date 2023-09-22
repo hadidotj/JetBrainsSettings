@@ -28,6 +28,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="RiderMemory" value="true" />
+        <entry key="aws.codewhisperer" value="false" />
       </map>
     </option>
   </component>
