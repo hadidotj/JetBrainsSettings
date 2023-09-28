@@ -10,6 +10,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="allowImplicitTargetInvoke" value="false" />
           <option name="automaticallyRefreshWatches" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="false" />
           <option name="evaluationTimeoutMs" value="60000" />
