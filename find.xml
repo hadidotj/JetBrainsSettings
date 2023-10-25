@@ -33,8 +33,8 @@
     <mask>*.tsx</mask>
     <mask>*.cs</mask>
     <mask>web.QA.config</mask>
-    <mask>*.cshtml</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
