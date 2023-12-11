@@ -33,7 +33,6 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-    <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
@@ -57,15 +56,14 @@
     <option name="tableQualification" value="ALWAYS" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;CHECK)(\W|$)(.*)" />
     <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)">
       <option name="FOREGROUND" value="d78e00" />
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_COLOR" value="ffbd00" />
       <option name="ERROR_STRIPE_COLOR" value="d78e00" />
     </pattern>
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
