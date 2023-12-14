@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager" autodetect="true">
-    <laf themeId="Darcula" />
+    <laf themeId="RiderLight" />
     <preferred-dark-laf themeId="Darcula" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
@@ -8,7 +8,6 @@
       <laf-to-scheme laf="ReSharper Light" scheme="_@user_ReSharper Light" />
       <laf-to-scheme laf="Rider Dark" scheme="_@user_Rider Dark" />
       <laf-to-scheme laf="Rider Light" scheme="_@user_IntelliJ Light" />
-      <laf-to-scheme laf="RiderDark" scheme="_@user_IntelliJ Light" />
       <laf-to-scheme laf="RiderLight" scheme="_@user_IntelliJ Light" />
     </lafs-to-previous-schemes>
   </component>

@@ -22,7 +22,6 @@
     <mask>*.cshtml,*.ts,*liquid</mask>
     <mask>*Widgets*.cshtml</mask>
     <mask>*.json</mask>
-    <mask>*.config</mask>
     <mask>insite*.ts</mask>
     <mask>packages.json</mask>
     <mask>packages.config</mask>
@@ -36,5 +35,6 @@
     <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.cshtml</mask>
+    <mask>*.config</mask>
   </component>
 </application>
