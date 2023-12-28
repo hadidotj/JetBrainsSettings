@@ -8,7 +8,7 @@
       <laf-to-scheme laf="ReSharper Light" scheme="_@user_ReSharper Light" />
       <laf-to-scheme laf="Rider Dark" scheme="_@user_Rider Dark" />
       <laf-to-scheme laf="Rider Light" scheme="_@user_IntelliJ Light" />
-      <laf-to-scheme laf="RiderLight" scheme="_@user_IntelliJ Light" />
+      <laf-to-scheme laf="RiderLight" scheme="_@user_Darcula" />
     </lafs-to-previous-schemes>
   </component>
 </application>
