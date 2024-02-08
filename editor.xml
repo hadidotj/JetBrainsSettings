@@ -64,7 +64,7 @@
       <option name="EFFECT_COLOR" value="ffbd00" />
       <option name="ERROR_STRIPE_COLOR" value="d78e00" />
     </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;Legacy|Spire-Migration)(\W|$)(.*)">
+    <pattern useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;Legacy|Migration)(\W|$)(.*)">
       <option name="FOREGROUND" value="c0c0" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="c0c0" />
