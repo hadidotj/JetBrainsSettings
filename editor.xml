@@ -56,8 +56,6 @@
     <option name="tableQualification" value="ALWAYS" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <pattern pattern="\bNotImplementedException\b" />
     <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;(BUG|PERF|PERFORMANCE))(\W|$)(.*)">
       <option name="FOREGROUND" value="d78e00" />
       <option name="FONT_TYPE" value="2" />
@@ -69,6 +67,8 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="c0c0" />
     </pattern>
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
